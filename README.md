@@ -1,8 +1,8 @@
-![Screenshot 2023-10-14 130304](https://github.com/Manisha2204/Personal-Portfolio/assets/118578660/2d02c436-f136-4246-91f8-bd46e4ec7e28)# Personal-Portfolio
+# Personal-Portfolio
 # Manisha Patnaik
-
-![Screenshot 2023-10-14 130217](https://github.com/Manisha2204/Personal-Portfolio/assets/118578660/c8de2104-fefe-409e-a3d0-707d00adc594)
-![Screenshot 2023-10-14 130231](https://github.com/Manisha2204/Personal-Portfolio/assets/118578660/c868df79-d17c-46f3-bd57-69a10d6f9678)
-![Screenshot 2023-10-14 130320](https://github.com/Manisha2204/Personal-Portfolio/assets/118578660/f2541d95-93bd-40a4-8f9c-5cfab6214941)
-![Screenshot 2023-10-14 130248](https://github.com/Manisha2204/Personal-Portfolio/assets/118578660/721ebdd1-fc91-45da-9843-edbf3df23c6e)
-![Screenshot 2023-10-14 130334](https://github.com/Manisha2204/Personal-Portfolio/assets/118578660/75086709-5926-48d9-bfab-becc7ed11175)
+![Screenshot 2023-10-14 130217](https://github.com/Manisha2204/Personal-Portfolio/assets/118578660/50536f38-c0ff-405a-96e5-efd5c6b0d855)
+![Screenshot 2023-10-14 130231](https://github.com/Manisha2204/Personal-Portfolio/assets/118578660/9614bcf4-4c82-4da0-9a20-66fda89ed779)
+![Screenshot 2023-10-14 130248](https://github.com/Manisha2204/Personal-Portfolio/assets/118578660/15d878d9-df1f-48f4-9caa-46866dccb56b)
+![Screenshot 2023-10-14 130304](https://github.com/Manisha2204/Personal-Portfolio/assets/118578660/b6096da5-51c9-417b-9652-a350a5546cfc)
+![Screenshot 2023-10-14 130320](https://github.com/Manisha2204/Personal-Portfolio/assets/118578660/fc040f89-e091-436b-b07f-2da00b396878)
+![Screenshot 2023-10-14 130334](https://github.com/Manisha2204/Personal-Portfolio/assets/118578660/6e63af5f-5d76-4209-99e9-1d164c7c7df5)
